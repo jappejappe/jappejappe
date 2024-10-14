@@ -1,14 +1,11 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=F7F7F7&width=435&lines=Your+secret+is+safe+with+my+indifference.)](https://git.io/typing-svg)
 
-<img src="https://tenor.com/view/critical-role-the-legend-of-vox-machina-percy-de-rolo-percival-de-rolo-gif-23387502)" alt="Pixel Art" align="right" width="200">
+<img src="https://tenor.com/view/critical-role-the-legend-of-vox-machina-percy-de-rolo-percival-de-rolo-gif-23387502" alt="Pixel Art" align="right" width="200">
 
 ### Technologies and tools:
 
 <div style="display: inline_block"><br>
-  <i class="devicon-python-plain"></i>
-  <img align="center" alt="Cris-HTML" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+  <img align="center" alt="Jappe-HTML" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="Cris-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cris-PHP" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt= "Cris-Mysql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">       
