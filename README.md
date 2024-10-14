@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=F7F7F7&width=435&lines=Your+secret+is+safe+with+my+indifference.)](https://git.io/typing-svg)
 
-<img src="[https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb](https://tenor.com/view/critical-role-the-legend-of-vox-machina-percy-de-rolo-percival-de-rolo-gif-23387502)" alt="Pixel Art" align="right" width="200">
+<img src="https://tenor.com/view/critical-role-the-legend-of-vox-machina-percy-de-rolo-percival-de-rolo-gif-23387502)" alt="Pixel Art" align="right" width="200">
 
 ### Technologies and tools:
 
