@@ -5,6 +5,7 @@
 ### Technologies and tools:
 
 <div style="display: inline_block"><br>
+  <i class="devicon-python-plain"></i>
   <img align="center" alt="Cris-HTML" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
   <img align="center" alt="Cris-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cris-PHP" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
