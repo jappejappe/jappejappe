@@ -1,3 +1,5 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=F7F7F7&width=435&lines=Your+secret+is+safe+with+my+indifference.)](https://git.io/typing-svg)
 
 <img src="https://tenor.com/view/critical-role-the-legend-of-vox-machina-percy-de-rolo-percival-de-rolo-gif-23387502)" alt="Pixel Art" align="right" width="200">
