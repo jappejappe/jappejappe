@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E48433&width=435&lines=Praise+the+sun!)](https://git.io/typing-svg)
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 <img src="https://media.tenor.com/fsMhE8zrx4wAAAAM/solaire-darksouls.gif" alt="Pixel Art" align="right" width="200">
 
@@ -14,7 +13,6 @@
   <img align="center" alt="Jappe-Flask" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
   <img align="center" alt="Jappe-Latex" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
   <img align="center" alt="Jappe-Raspberry" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
-  <i class="devicon-flask-original"></i>
 </div><br>
     
 ### Contact
