@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=F7F7F7&width=435&lines=Your+secret+is+safe+with+my+indifference.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E48433&width=435&lines=Praise+the+sun!)](https://git.io/typing-svg)
 
 <img src="https://media.tenor.com/q27KhS9kKmwAAAAi/dazai-liar-dancer.gif" alt="Pixel Art" align="right" width="200">
 
