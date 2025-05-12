@@ -11,7 +11,7 @@
   <img align="center" alt="Jappe-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Jappe-JS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Jappe-Raspberry" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" /><br>
-  <img align="center" alt="Jappe-AWS" href="https://www.credly.com/badges/8db44c40-1da4-421e-8955-8fb3cf3ba257/public_url" height="160" width="160" src="./assets/aws_badge.png">
+  <img align="center" alt="Jappe-AWS" href="https://www.credly.com/badges/8db44c40-1da4-421e-8955-8fb3cf3ba257/public_url" src="./assets/aws_badge.png">
 
 </div><br>
     
