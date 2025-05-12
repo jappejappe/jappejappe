@@ -5,7 +5,7 @@
 ### Technologies and tools:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Jappe-AWS" href="https://www.credly.com/badges/8db44c40-1da4-421e-8955-8fb3cf3ba257/public_url" height="35" width="40" src="./assets/aws_badge.png">
+  <img align="center" alt="Jappe-AWS" href="https://www.credly.com/badges/8db44c40-1da4-421e-8955-8fb3cf3ba257/public_url" height="120" width="120" src="./assets/aws_badge.png">
   <img align="center" alt="Jappe-Python" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="Jappe-HTML" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="Jappe-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
