@@ -12,7 +12,7 @@
   <img align="center" alt="Jappe-JS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Jappe-Raspberry" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" /><br>
 <a href="https://www.credly.com/badges/8db44c40-1da4-421e-8955-8fb3cf3ba257/public_url" target="_blank">
-  <img align="center" alt="Jappe-AWS" src="./assets/aws_badge.png">
+  <img align="center" alt="Jappe-AWS" src="./assets/aws_badge.png" height="200" width="200">
 </a>
 </div><br>
     
