@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E48433&width=435&lines=Praise+the+sun!)](https://git.io/typing-svg)
           
-<img src="https://tenor.com/pt-BR/view/dark-souls-bonfire-gif-20055180" alt="Pixel Art" align="right" width="200">
+<img src="https://media.tenor.com/drxH1lO9cfEAAAAj/dark-souls-bonfire.gif" alt="Pixel Art" align="right" width="200">
 
 ### Technologies and tools:
 
