@@ -12,43 +12,44 @@
 </p>
 </div>
 
-## Technologies and tools
-<div style="display: inline_block">
-  <img align="center" alt="Jappe-Python" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="Jappe-HTML" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="Jappe-CSS" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jappe-Git" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Jappe-JS" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Jappe-Raspberry" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
-  <img align="center" alt="Jappe-AWS" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /><br>
-  <img align="center" alt="Jappe-Flask" height="55" width="60" src="./assets/flask.png">
-  <img align="center" alt="Jappe-VSCode" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+# Technologies and tools
+<div align="center" style="display: inline_block">
+  <img align="center" alt="Jappe-Python" height="95" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="Jappe-HTML" height="95" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" alt="Jappe-CSS" height="95" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jappe-Git" height="95" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Jappe-JS" height="95" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Jappe-Raspberry" height="95" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
+  <img align="center" alt="Jappe-AWS" height="95" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+  <img align="center" alt="Jappe-Flask" height="95" width="100" src="./assets/flask.png">
+  <img align="center" alt="Jappe-VSCode" height="95" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
 </div>
 <br>
 
-## Learning
-<div style="display: inline_block">
-  <img align="center" alt="Jappe-Docker" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg">
-  <img align="center" alt="Jappe-Flutter" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg" />
-  <img align="center" alt="Jappe-Linux" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img align="center" alt="Jappe-Postgre" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Jappe-React" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="center" alt="Jappe-SQLite" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+# Learning
+<div align="center" style="display: inline_block">
+  <img align="center" alt="Jappe-Docker" height="95" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg">
+  <img align="center" alt="Jappe-Flutter" height="95" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg" />
+  <img align="center" alt="Jappe-Linux" height="95" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img align="center" alt="Jappe-Postgre" height="95" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Jappe-React" height="95" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="Jappe-SQLite" height="95" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 </div>
+<br>
+
+# Badges
+<div align="center" style="display: inline_block">
+  <a href="https://www.credly.com/badges/8db44c40-1da4-421e-8955-8fb3cf3ba257/public_url" target="_blank">
+    <img align="center" alt="Jappe-AWS" src="./assets/aws_badge.png" height="200" width="200">
+  </a>
+</div>
+<br>
 
 
-## Badges
-<a href="https://www.credly.com/badges/8db44c40-1da4-421e-8955-8fb3cf3ba257/public_url" target="_blank">
-  <img align="center" alt="Jappe-AWS" src="./assets/aws_badge.png" height="200" width="200">
-</a>
 
 
-
-
-## Contact
+# Contact
 
 <div> 
   <a href="mailto:gabrieljappemoura95071@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-
