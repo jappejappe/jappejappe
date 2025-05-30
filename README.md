@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E48433&width=435&lines=Praise+the+sun!)](https://git.io/typing-svg)
           
 <img src="https://media.tenor.com/drxH1lO9cfEAAAAj/dark-souls-bonfire.gif" alt="Pixel Art" align="right" width="200">
-
+<h3>Ⓐ Rest at the bonfire</h3>
 ### Technologies and tools:
 
 <div style="display: inline_block"><br>
